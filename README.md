@@ -1,85 +1,77 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" alt="coding gif"/>
 </div>
+<h1 align="center"> Ayush Antiwal (Full Stack Developer) </h1>
 
-<br><br>
+I really like building products that are easy to use, fast and work well from the very start to the end. My work is based on the idea that good software should do more than work. It should make things easier connect the parts that users see and the parts that they do not see smoothly and make complicated tasks feel simple.
 
-<h1 align="center">Hello, Developers 👋 I'm Ayush Antiwal</h1>
+I have a lot of experience, with Angular, React, Node.js, Express and modern JavaScript. I use this experience to build web applications that work well on devices and backend services that are well organized work efficiently and pay attention to small details.
 
-<p align="center">
-  🚀 Web Developer | 💡 Problem Solver | 🎯 Tech Enthusiast
-</p>
+I care about how different parts of an application work how data moves through it how APIs are made and how databases support systems that are reliable and easy to maintain.
 
-<br><br>
+I also think that using patterns that can be reused writing code that can be tested and working well with others are important. This helps me work effectively in teams and adapt quickly to changing needs of a product.
 
-## 👨‍💻 About Me  
+Whether I am making features improving existing systems, connecting APIs or solving complicated problems I focus on finding solutions that are practical work well and meet business goals.
 
-✨ I'm a passionate Web Developer from India.  
-- 🔭 Currently working as **Web Developer**  
-- 🌱 Learning **Next.js, TypeScript & System Design**  
-- 💬 Ask me about **Angular, React, Node.js, APIs**  
-- ⚡ Fun fact: I debug faster with coffee ☕  
+I like working on products where design, engineering and what users need all come together. I take pride in building things that work well now. Can grow in the future.
 
-<br><br>
+I am always looking to learn ways of building improving and delivering digital products that create value that lasts.
 
-## 🌐 Connect With Me  
+#### What I Believe
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayushantiwal08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:ayushantiwal08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-    <a href="https://www.hackerrank.com/profile/ayukumar1010" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30"/>
-  </a>
-</div>
+Good software is not just about writing code—it's about solving the right problem, keeping things maintainable, and delivering value consistently.
+I like working on products from idea to deployment, improving both user experience and engineering quality along the way.
 
-<br><br>
+### Current Focus
+* Building scalable full-stack applications that are clean, reliable, and ready to evolve with business growth.
+*  Crafting frontend experiences with strong architecture, smooth performance, and a focus on usability.
+* Working with cloud-native systems that are secure, efficient, and designed for modern deployment.
+* Exploring AI-powered features that make digital products smarter, more personalized, and more helpful.
 
-## 🛠 Tech Stack  
+I enjoy combining solid engineering with thoughtful product design to create software that feels simple for users and powerful behind the scenes.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angular"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="50" alt="nextjs"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" alt="nodejs"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap"/>
-  <img width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c"/>
-</div>
 
-<br><br>
 
-<!-- 
-## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushAntwal&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAntwal&theme=radical" height="180"/>
-</div>
 
-<br><br>
--->
+```mermaid
+%%{init: { "theme": "neutral" }}%%
 
-## ⚡ Fun Extras  
+mindmap
+  root))Tech I Work With((
 
-🌟 Outside of coding, I enjoy:  
-- 🎮 Gaming after a long dev session  
-- 🎵 Music to keep my code bug-free  
-- 🧠 Exploring new tech & building cool projects  
+    ((Frontend))
+      Angular
+      React
+      Next.js
+      TypeScript
+      JavaScript
 
-<br><br>
+    ((Backend))
+      Node.js
+      Express.js
+      REST APIs
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushAntwal.AyushAntwal" alt="visitor badge"/>
-</div>
+    ((Database))
+      MongoDB
+      MySQL
+
+    ((Cloud))
+      AWS
+      Docker
+
+    ((DevOps))
+      Git
+      GitHub
+      CI/CD
+
+    ((Testing))
+      Jasmine
+      Karma
+```
+
+> [!TIP]
+> Build things that matter. Keep them simple.
+
+
+
